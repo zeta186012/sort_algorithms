@@ -35,5 +35,6 @@ int main()
     print_array(arr,n);
     insertion_sort(arr,n);
     print_array(arr,n);
+    return 0;
 
 }
